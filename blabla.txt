@@ -4,6 +4,9 @@ this is a blabla
 public class{
 
 	public static void main(String arg[]){
+		private int account = 0;
+
+
 		System.out.println("new one");
 	}
 }
