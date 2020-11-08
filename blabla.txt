@@ -5,7 +5,11 @@ public class{
 
 	public static void main(String arg[]){
 		private int account = 0;
+<<<<<<< HEAD
 
+=======
+		private int password = 0;
+>>>>>>> feature
 
 		System.out.println("new one");
 	}
