@@ -1,1 +1,9 @@
 this is a blabla
+
+
+public class{
+
+	public static void main(String arg[]){
+		System.out.println("new one");
+	}
+}
