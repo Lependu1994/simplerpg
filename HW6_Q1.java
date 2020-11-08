@@ -77,6 +77,7 @@ public class HW6_Q1 {
         int result = 0;
         result = cal.getCal();
 
+        System.out.println("我世紀林");
         try{
             method(val,pow);
         }catch (CalExceptionA e1) {
